@@ -2,9 +2,9 @@
 
 **Full-Stack Developer** | React · TypeScript · Node.js · Python  
 🔭 目前專注於 React + MUI 的企業級管理系統  
-🌱 正在學習 Next.js 14 App Router、Prisma 與進階後端架構  
+🌱 正在學習 Next.js 14 App Router、Prisma、Flutter 與進階後端架構  
 👨‍💻 所有代表作均已 Pin 在下方  
-📫 聯絡我：your.email@gmail.com（建議換成真實信箱）  
+📫 聯絡我：chenyuxn821@gmail.com  
 ⚡ Fun fact：曾用 TSX 實作經典踩地雷遊戲與即時分形森林動畫，也用 Python 訓練過 CNN 影像分類模型
 
 ### 🛠 Tech Stack
