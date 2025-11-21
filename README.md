@@ -33,7 +33,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onyx0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Onyx0824&color=61DAFB&style=flat-square" alt="Profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Onyx0824&color=61DAFB&style=flat-square" alt="Profile views" />
+</div>
 
 ### 🔥 Recent Highlights
 - 企業級後台管理系統（React + TypeScript + MUI + Mock API）
