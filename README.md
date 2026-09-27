@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onyx0824&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="Onyx's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyx0824&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onyx0824&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="Onyx's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onyx0824&layout=compact&theme=tokyonight&hide_border=true height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
